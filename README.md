@@ -1,2 +1,2 @@
 # car-price-prediction
-logistic regression
+logistic regression using R
